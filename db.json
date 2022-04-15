@@ -1,0 +1,8 @@
+ [
+    {"dname":"Labrador Retriever", "age":8 , "imgurl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Labrador_on_Quantock_%282175262184%29.jpg/1200px-Labrador_on_Quantock_%282175262184%29.jpg" },
+    {"dname":"Akbash", "age":5 , "imgurl":"https://www.dog-breeds-expert.com/images/Akbash.jpg"} ,
+    {"dname":"American foxhound", "age":5 , "imgurl":"https://s36700.pcdn.co/wp-content/uploads/2019/11/2008_Am-Foxhound_getty1040690072.png"} ,
+    {"dname":"Alaskan Malamute", "age":5 , "imgurl":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/alaskan-malamute-detail.jpg?bust=1535565041&width=630"} ,
+    {"dname":"American Eskimo Dog", "age":5 , "imgurl":"http://cdn.akc.org/content/article-body-image/american_eskimo_dog_body_image_1.jpg"} ,
+    {"dname":"Akbash", "age":5 , "imgurl":"https://www.dog-breeds-expert.com/images/Akbash.jpg"}    
+    ]
